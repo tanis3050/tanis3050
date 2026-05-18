@@ -1,7 +1,7 @@
 ## Haiii, I'm tanis 
-Im a sophomore student interested in 3D modelling and programming.
-In programming,I am still exploring and topics which interest me are cryptography and programming language theory. 
-I also like to read novellas in my free time. My favourite ones are The alchemist and Animal farm.
+Im a sophomore student interested in 3D modelling and programming.   
+In programming,I am still exploring and topics which interest me are cryptography and programming language theory.     
+I also like to read novellas in my free time. My favourite ones are The alchemist and Animal farm.    
 
 
 <!--
